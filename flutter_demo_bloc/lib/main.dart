@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_demo_bloc/blocs/search_bloc.dart';
-import 'views/search_view.dart';
+import 'package:flutter_demo_bloc/views/search_view.dart';
 import 'package:provider/provider.dart';
 
 void main() => runApp(MyApp());
